@@ -5,8 +5,8 @@
 - [x] Make it deploy
 - [x] Scaffold basic ui
 - [x] Tidy up build process
-- [ ] Database setup
-- [ ] Attach database to UI
+- [x] Database setup
+- [x] Attach database to UI
 - [ ] Add authentication
 - [ ] Add image upload
 - [ ] Error management

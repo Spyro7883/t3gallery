@@ -8,8 +8,8 @@
 - [x] Database setup
 - [x] Attach database to UI
 - [x] Add authentication
-- [ ] Add image upload
-- [ ] "taint" (server-only)
+- [x] Add image upload
+- [x] "taint" (server-only)
 - [ ] Use Next/Image component
 - [ ] Error management
 - [ ] Routing/image page (parallel route)
